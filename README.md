@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a third-year Information Systems student, teaching assistant & developer from Israel.</h2>
+<h2 align="left">Hi 👋! I'm a third-year Information Systems student & teaching assistant from Israel.</h2>
 
 ###
 
