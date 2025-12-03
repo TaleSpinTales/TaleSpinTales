@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Paz Maor and I'm a third-year Information Systems student, teaching assistant & developer from Israel.</h2>
+<h2 align="left">Hi 👋! I'm a third-year Information Systems student, teaching assistant & developer from Israel.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
   🎓 Third-year B.Sc. in Information Systems (MIS)<br/>
   🧠 Teaching assistant for algorithms & programming courses<br/>
   💻 Building tools, dashboards, and academic tech projects<br/>
-  🔍 Interested in algorithms, web development, and event-driven / autonomous systems
+  🔍 Interested in web development and algorithms.
 </p>
 
 ###
