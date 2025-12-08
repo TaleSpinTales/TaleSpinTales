@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWtmaTZpcTk5bjR5d3ltZ2I0cGl4cjNwbmdyaDZma2xxNndqNWd2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I5mFpMO8jPijt4zm3P/giphy.gif" />
 
-### 
+###  
 
 <p align="left">
   🎓 Third-year B.Sc. in Information Systems (MIS)<br/>
