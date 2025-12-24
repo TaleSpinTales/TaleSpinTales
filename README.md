@@ -1,4 +1,4 @@
-<h2 align="left">Third-year Information Systems student & teaching assistant from Israel.</h2>
+<h2 align="left">Paz Maor</h2>
 
 ###  
 
