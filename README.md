@@ -6,7 +6,7 @@
     
 ###         
     
-<p align="left"> 
+<p align="left">  
   🎓 Third-year B.Sc. in Information Systems (MIS)<br/>
   🧠 Teaching assistant for algorithms & programming courses<br/>
   💻 Building tools, dashboards, and academic tech projects<br/>
