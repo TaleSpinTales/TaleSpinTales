@@ -12,7 +12,7 @@
   💻 Building tools, dashboards, and academic tech projects<br/>
   🔍 Interested in web development and algorithms.
 </p>
-
+ 
 ###
 
 <h3 align="left">Tech stack</h3>
