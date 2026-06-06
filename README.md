@@ -7,7 +7,7 @@
 ###         
      
 <p align="left">  
-  🎓 Third-year B.Sc. in Information Systems (MIS)<br/>
+  🎓 Information Systems Implementer | B.Sc. in Information Systems<br/>
   🧠 Teaching assistant for algorithms & programming courses<br/>
   💻 Building tools, dashboards, and academic tech projects<br/>
   🔍 Interested in web development and algorithms.
