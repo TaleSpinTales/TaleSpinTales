@@ -10,7 +10,7 @@
   🎓 Information Systems Implementer | B.Sc. in Information Systems<br/>
   🧠 Teaching assistant for algorithms & programming courses<br/>
   💻 Building tools, dashboards, and academic tech projects<br/>
-  🔍 Interested in web development and algorithms.
+  🔍 Turning academic and organizational needs into practical digital solutions
 </p>
  
 ###    
